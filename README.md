@@ -2,8 +2,6 @@
 ## Subire proyectos de mi bot de Discord y de Renpy
 
 ### Idiomas:English/Español
-### Disponible para colaborar y ayudar a otros
-### Available for collaboration and for helping others
 #### Lenguajes y conocimientos/Languages and knowledge:
 - Python
 - CommonLisp
