@@ -1,5 +1,5 @@
-### Idiomas:English/Español
-#### Lenguajes y conocimientos/Languages and knowledge:
+### Idiomas:Español, English, Français
+#### Languages and knowledge:
 - Python
 - MySQL
 - Renpy
