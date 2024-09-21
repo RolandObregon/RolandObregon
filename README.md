@@ -3,5 +3,5 @@
 - Python
 - MySQL
 - Renpy
-- HTML
+- C++
 
